@@ -37,7 +37,8 @@ This grouped bar chart compares fund allocation across 5 states in two financial
 - **Arunachal Pradesh** had zero fund allocation in 2020–21 despite ₹166 Cr in the prior year.
 - **Andhra Pradesh** received lower funds in 2020–21.
 
----
+---🔗 [Click here to view the interactive Plotly Chart (Live)](https://warrior678.github.io/CAMPA-FUND-UTILIZATION/plotly_campa_chart.html)
+
 
 ## 🐍 Python Code
 
